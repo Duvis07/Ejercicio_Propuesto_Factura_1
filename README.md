@@ -20,3 +20,4 @@ A tener en cuenta
 
 No pedir datos por pantalla, solo con valores por defecto
 tener en cuenta , cantidad de productos, valor del producto, Iva(19%), Ipoconsumo(16%)
+# Ejercicio_Propuesto_Factura_Mejorado
